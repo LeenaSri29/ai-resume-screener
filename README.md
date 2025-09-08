@@ -56,11 +56,11 @@ Click Analyze Resumes.
 View results and download PDF reports.
 
 
-#screenshots
+## Screenshots
 
-(images/Screenshot%202025-09-08%20164901.png)
-(images/Screenshot%202025-09-08%20165003.png)
-(images/Screenshot%202025-09-08%20165017.png)
+![Screenshot 1](images/Screenshot%202025-09-08%20164901.png)
+![Screenshot 2](images/Screenshot%202025-09-08%20165003.png)
+![Screenshot 3](images/Screenshot%202025-09-08%20165017.png)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
