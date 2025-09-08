@@ -1,0 +1,1 @@
+# AI Resume Screener\n\nPolished Flask project to screen resumes against job descriptions.
