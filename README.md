@@ -56,8 +56,11 @@ Click Analyze Resumes.
 View results and download PDF reports.
 
 
-<img width="1840" height="926" alt="Screenshot 2025-09-08 164901" src="https://github.com/user-attachments/assets/fcbd81aa-e634-4d0b-994b-21b173b23cbb" />
+#screenshots
 
+images/Screenshot%202025-09-08%20164901.png
+images/Screenshot%202025-09-08%20165003.png
+images/Screenshot%202025-09-08%20165017.png
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
