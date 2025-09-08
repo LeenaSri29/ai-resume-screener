@@ -58,9 +58,9 @@ View results and download PDF reports.
 
 #screenshots
 
-images/Screenshot%202025-09-08%20164901.png
-images/Screenshot%202025-09-08%20165003.png
-images/Screenshot%202025-09-08%20165017.png
+(images/Screenshot%202025-09-08%20164901.png)
+(images/Screenshot%202025-09-08%20165003.png)
+(images/Screenshot%202025-09-08%20165017.png)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
